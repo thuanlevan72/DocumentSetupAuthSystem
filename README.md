@@ -170,7 +170,7 @@ Preferred communication style: Simple, everyday language (Tiếng Việt)
 dotnet run
 ```
 
-Server sẽ chạy tại: `http://0.0.0.0:5000`
+Server sẽ chạy tại: `http:/localhost:5000`
 Swagger UI: `http://localhost:5000/swagger`
 
 ## Production Deployment Checklist
